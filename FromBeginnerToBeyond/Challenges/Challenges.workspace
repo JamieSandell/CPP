@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Challenges" Database="" Version="10000">
+  <Project Name="Section006VariablesAndConstants" Path="Section006/Section006.project" Active="No"/>
+  <Project Name="Section007Vectors" Path="Section007Vectors/Section007Vectors.project" Active="No"/>
+  <Project Name="Section008DollarCalculator" Path="Section008DollarCalculator/Section008DollarCalculator.project" Active="No"/>
+  <Project Name="Section008DollarCalculator2" Path="Section008DollarCalculator2/Section008DollarCalculator2.project" Active="No"/>
+  <Project Name="Section009ControllingProgramFlow" Path="Section009ControllingProgramFlow/Section009ControllingProgramFlow.project" Active="No"/>
+  <Project Name="Section010CharactersAndStrings" Path="Section010CharactersAndStrings/Section010CharactersAndStrings.project" Active="No"/>
+  <Project Name="Section011RevisitingSection009" Path="Section011RevisitingSection009/Section011RevisitingSection009.project" Active="No"/>
+  <Project Name="Section012PointersAndReferences" Path="Section012PointersAndReferences/Section012PointersAndReferences.project" Active="No"/>
+  <Project Name="Section013Movies" Path="Section013Movies/Section013Movies.project" Active="No"/>
+  <Project Name="Section014OperatorOverloading" Path="Challenge014OperatorOverloading/Challenge014OperatorOverloading.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Section006VariablesAndConstants" ConfigName="Debug"/>
+      <Project Name="Section007Vectors" ConfigName="Debug"/>
+      <Project Name="Section008DollarCalculator" ConfigName="Debug"/>
+      <Project Name="Section008DollarCalculator2" ConfigName="Debug"/>
+      <Project Name="Section009ControllingProgramFlow" ConfigName="Debug"/>
+      <Project Name="Section010CharactersAndStrings" ConfigName="Debug"/>
+      <Project Name="Section011RevisitingSection009" ConfigName="Debug"/>
+      <Project Name="Section012PointersAndReferences" ConfigName="Debug"/>
+      <Project Name="Section013Movies" ConfigName="Debug"/>
+      <Project Name="Section014OperatorOverloading" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Section006VariablesAndConstants" ConfigName="Release"/>
+      <Project Name="Section007Vectors" ConfigName="Release"/>
+      <Project Name="Section008DollarCalculator" ConfigName="Release"/>
+      <Project Name="Section008DollarCalculator2" ConfigName="Release"/>
+      <Project Name="Section009ControllingProgramFlow" ConfigName="Release"/>
+      <Project Name="Section010CharactersAndStrings" ConfigName="Release"/>
+      <Project Name="Section011RevisitingSection009" ConfigName="Release"/>
+      <Project Name="Section012PointersAndReferences" ConfigName="Release"/>
+      <Project Name="Section013Movies" ConfigName="Release"/>
+      <Project Name="Section014OperatorOverloading" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601106542 source:/media/sf_Projects/C++/FromBeginnerToBeyond/Challenges/Challenge014OperatorOverloading/MyString.cpp
+	<iostream>
+	<cstring>
+	"MyString.hpp"
+
+1601106542 /media/sf_Projects/C++/FromBeginnerToBeyond/Challenges/Challenge014OperatorOverloading/MyString.hpp
+
+1601110642 source:/media/sf_Projects/C++/FromBeginnerToBeyond/Challenges/Challenge014OperatorOverloading/main.cpp
+	<iostream>
+	<vector>
+	"MyString.hpp"
+
